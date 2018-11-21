@@ -6,7 +6,7 @@
 
 <img src="./image/KakaoTalk_20181121_155620883.jpg" width="30%">
 
-[교육관련 사진보기](./image)
+[교육관련 사진보기](./image/all_image.md)
 
 - 이름 : 염희수
 
