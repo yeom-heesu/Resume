@@ -2,7 +2,7 @@
 
 ## 소개
 
-![사진]<img src="./image/KakaoTalk_20181121_155620883.jpg" width="30%">
+<img src="./image/KakaoTalk_20181121_155620883.jpg" width="30%">
 - 이름 : 염희수
 - 좌우명 : [수적석천](https://hanja.dict.naver.com/word?q=%E6%B0%B4%E6%BB%B4%E7%9F%B3%E7%A9%BF&cp_code=0&sound_id=0)
 - 취미 : 음악 감상, 악기 연주(피아노,드럼) 
